@@ -1,3 +1,5 @@
+// stack starts here 
+
 #include<iostream>
 #include<stack>
 using namespace std;
